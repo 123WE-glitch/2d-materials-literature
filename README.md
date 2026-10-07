@@ -9,3 +9,9 @@
 3. Li et al., *An AI-driven robotic system for two-dimensional hetero-assemblies*, arXiv:2605.20420v1 (2026).
 
 PDF 分别保存在 `pdf/paper-1.pdf`、`pdf/paper-2.pdf`、`pdf/paper-3.pdf`。论文版权归原作者及相关权利人所有。
+
+## 阅读感想
+
+[第一次阅读感想](https://123we-glitch.github.io/2d-materials-literature/pdf/first-reading-reflections.pdf) · 2026 年 10 月 7 日
+
+关于三篇文献中视觉检测与自动转移的初次阅读记录。原 PDF 保存在 `pdf/first-reading-reflections.pdf`。
